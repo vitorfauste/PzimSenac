@@ -1,2 +1,3 @@
 # PzimSenac
-Exercícios utilizando o Pascalzim realizados no Senac.
+Exercícios utilizando o Pascalzim realizados no Senac.<br>
+Os exercícios são básicos e intermediários, para aprendizado.
